@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning c++
 - 👯 I’m looking to collaborate on -
 - 🤔 I’m looking for help with opengl
-- 💬 Ask me about javascript, python
+- 💬 Ask me about javascript, python, c++
 - 📫 How to reach me: -
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: -
