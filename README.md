@@ -1,12 +1,26 @@
 # Redstonerayy
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Redstonerayy&theme=midnight-purple&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redstonerayy&theme=midnight-purple&show_icons=true&layout=compact&card_width=445)
+Todo:
+-minecraft
+-make conffusion better
+-learn rust
+-school projects
+-ai in c++
+-cpp library for utilities, radixsort with floats, objects ...
+-bwinf
+-devio
+-opengl, vulkan, raynder
+-race
+-unite
 
-- 🔭 I’m currently working on algorithms, minecraft, chess
-- 🌱 I’m currently learning c++
-- 👯 I’m looking to collaborate on -
-- 🤔 I’m looking for help with opengl
-- 💬 Ask me about javascript, python, c++
-- 📫 How to reach me: -
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: -
+
+<a href="https://github.com/Redstonerayy?tab=repositories#gh-dark-mode-only">
+  <img src="https://github.com/Redstonerayy/gh-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/Redstonerayy/gh-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/Redstonerayy?tab=repositories#gh-light-mode-only">
+  <img src="https://github.com/Redstonerayy/gh-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+  <img src="https://github.com/Redstonerayy/gh-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
+
+This awesome statistics is generated with [jstrieb/github-stats](https://github.com/jstrieb/github-stats).
