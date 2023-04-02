@@ -1,16 +1,6 @@
 # Redstonerayy
 
-Todo:
-- minecraft
-- learn rust
-- ai in c++
-- cpp library for utilities, radixsort with floats, objects ...
-- bwinf
-- opengl, vulkan, raynder
-- race
-- unite
-- devio
-- make conffusion better
+C++, Python, Javascript, HTML, CSS, Linux, OpenGL
 
 ![](https://raw.githubusercontent.com/Redstonerayy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Redstonerayy/github-stats/master/generated/overview.svg#gh-light-mode-only)
