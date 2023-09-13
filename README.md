@@ -12,12 +12,12 @@ Anton, Developer from Germany.
 C++, Python, Typescript, Javascript, HTML, CSS
 
 ## Technologies
-Linux, Docker, Vulkan, Github API, LaTeX
+Linux, Docker, Github API, LaTeX
 
 ## Projects
 
 - [Github Stats](https://github.com/Redstonerayy/github-advanced-stats), custom stats generator
-- [yt-enhanced Extension](https://github.com/Redstonerayy/yt-enhanced), chrome/firefox extension to improve yt experience
+- [yt-enhanced](https://github.com/Redstonerayy/yt-enhanced), chrome/firefox extension to improve yt experience
 - [Templex](https://github.com/Redstonerayy/templex), in-developement blog engine in Typescript
 
 ## Links
