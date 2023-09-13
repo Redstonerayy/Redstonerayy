@@ -17,7 +17,7 @@ Linux, Docker, Vulkan, Github API, LaTeX
 ## Projects
 
 - [Github Stats](https://github.com/Redstonerayy/github-advanced-stats), custom stats generator
-- [Yt-Looper Extension](https://github.com/Redstonerayy/yt-looper), chrome/firefox extension for looping videos
+- [yt-enhanced Extension](https://github.com/Redstonerayy/yt-enhanced), chrome/firefox extension to improve yt experience
 - [Templex](https://github.com/Redstonerayy/templex), in-developement blog engine in Typescript
 
 ## Links
