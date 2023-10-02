@@ -18,7 +18,7 @@ Linux, Docker, Github API, LaTeX
 
 - [Github Stats](https://github.com/Redstonerayy/github-advanced-stats), custom stats generator
 - [yt-enhanced](https://github.com/Redstonerayy/yt-enhanced), chrome/firefox extension to improve yt experience
-- [Templex](https://github.com/Redstonerayy/templex), in-developement blog engine in Typescript
+- [Templex](https://github.com/Redstonerayy/templex), markdown to html converter in Typescript
 
 ## Links
 More Repos on [2. Account](https://github.com/redstonerayyy)
